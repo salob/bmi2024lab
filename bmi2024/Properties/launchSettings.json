@@ -18,7 +18,7 @@
     "bmi2024": {
       "commandName": "Project",
       "launchBrowser": true,
-      "applicationUrl": "http://localhost:43976",
+      "applicationUrl": "http://localhost:63082",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
