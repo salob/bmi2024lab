@@ -4,4 +4,5 @@
     <TargetFramework>net8.0</TargetFramework>
   </PropertyGroup>
 
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'bmi2024' " />
 </Project>
